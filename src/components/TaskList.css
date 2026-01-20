@@ -1,0 +1,14 @@
+.task-list {
+  margin-top: var(--spacing-md);
+}
+
+.task-list--empty {
+  padding: var(--spacing-xl) var(--spacing-md);
+  text-align: center;
+}
+
+.task-list__empty-message {
+  color: var(--color-text-muted);
+  font-size: 14px;
+  margin: 0;
+}
